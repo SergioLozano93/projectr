@@ -43,6 +43,7 @@ function App() {
         <button  onClick={ () => setGifs(arGift2)}>Cambiar gift</button>
       </section>
     </div>
+    // cambio para guardar en rama
   );
 }
 
