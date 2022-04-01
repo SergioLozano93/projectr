@@ -1,0 +1,20 @@
+git comandos para ez save
+
+git status
+git add .
+git commit -m "mensaje"
+git push master
+
+*para crear rama*
+git checkout -b dev
+
+*cambiar de rama*
+git checkout 'nombre'
+
+*merge*
+git merge 'nombre-rama'
+git push 'nombre_rrama'
+
+
+*saber que rama estás*
+git branch
